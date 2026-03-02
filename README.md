@@ -9,9 +9,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Aplikasi manajemen keuangan pribadi yang powerful dan user-friendly**
-
-[Demo](#) • [Dokumentasi](#instalasi) • [Lapor Bug](https://github.com/Davin164/Web-KeuanganPribadi/issues) • [Request Fitur](https://github.com/Davin164/Web-KeuanganPribadi/issues)
-
 </div>
 
 ---
