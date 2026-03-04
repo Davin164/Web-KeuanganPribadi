@@ -8,7 +8,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Aplikasi manajemen keuangan pribadi yang powerful dan user-friendly**
+**Aplikasi manajemen keuangan pribadi berbasis website yang sangat bagus dan user-friendly**
 </div>
 
 ---
