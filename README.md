@@ -19,11 +19,11 @@
 
 ### 🎯 Tujuan Aplikasi
 
-- ✅ Memudahkan pencatatan transaksi keuangan harian
-- ✅ Memberikan visualisasi data keuangan yang mudah dipahami
-- ✅ Membantu pengguna membuat keputusan keuangan yang lebih baik
-- ✅ Menyediakan rekomendasi berdasarkan pola pengeluaran
-- ✅ Meningkatkan kesadaran finansial pengguna
+- Memudahkan pencatatan transaksi keuangan harian
+- Memberikan visualisasi data keuangan yang mudah dipahami
+- Membantu pengguna membuat keputusan keuangan yang lebih baik
+- Menyediakan rekomendasi berdasarkan pola pengeluaran
+- Meningkatkan kesadaran finansial pengguna
 
 ---
 
