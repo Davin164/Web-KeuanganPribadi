@@ -13,7 +13,7 @@
 
 ---
 
-## 📖 Tentang Proyek Ini
+## 📖 Tentang Project
 
 **Web Keuangan Pribadi** adalah aplikasi web yang dirancang untuk membantu Anda mengelola keuangan dengan lebih efektif dan efisien. Dibangun menggunakan Laravel framework, aplikasi ini menawarkan antarmuka yang modern, responsif, dan mudah digunakan untuk mencatat, menganalisis, dan mengoptimalkan pengelolaan keuangan pribadi Anda.
 
